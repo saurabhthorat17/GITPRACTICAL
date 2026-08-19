@@ -20,6 +20,6 @@
       with:
         python-version: "3.10"
         
-   - run: python hello.py
+    - run: python hello.py
 
         
